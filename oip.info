@@ -1,0 +1,120 @@
+; Packaging information for oip
+name = "Oregon Internet Properties - OIP.net"
+description = "Find Properties Fast"
+core = "7.x"
+; ----------
+; Dependencies
+; ----------
+; AYAH
+dependencies[] = ayah
+; Administration
+dependencies[] = admin_devel
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+; Adsense
+dependencies[] = adsense
+dependencies[] = adsense_cse
+dependencies[] = adsense_managed
+; Chaos tool suite
+dependencies[] = ctools
+; Context
+dependencies[] = context
+dependencies[] = context_layouts
+dependencies[] = context_ui
+; Core
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = dblog
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = number
+dependencies[] = options
+dependencies[] = overlay
+dependencies[] = path
+dependencies[] = php
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = update
+dependencies[] = user
+; Date/Time
+dependencies[] = date
+dependencies[] = date_api
+; Display suite
+dependencies[] = ds
+dependencies[] = ds_extras
+dependencies[] = ds_search
+; Fields
+dependencies[] = cck_phone
+dependencies[] = conditional_fields
+dependencies[] = editablefields
+dependencies[] = email
+dependencies[] = field_group
+dependencies[] = geofield
+dependencies[] = link
+dependencies[] = node_reference
+dependencies[] = references
+; Flags
+dependencies[] = flag
+; LM PayPal
+dependencies[] = lm_paypal
+dependencies[] = lm_paypal_subscriptions
+; Mail
+dependencies[] = smtp
+; Meta tags (quick)
+dependencies[] = metatags_quick
+; OIP
+dependencies[] = rets_bsf
+; Other
+dependencies[] = css_injector
+dependencies[] = disable_breadcrumbs
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = fancy_login
+dependencies[] = forward
+dependencies[] = geofield_map
+dependencies[] = geophp
+dependencies[] = logintoboggan
+dependencies[] = nice_menus
+dependencies[] = pathauto
+dependencies[] = special_menu_items
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = views_tweaks
+; Rules
+dependencies[] = rules
+dependencies[] = rules_admin
+; Theme Tools
+dependencies[] = delta
+dependencies[] = delta_blocks
+dependencies[] = delta_color
+dependencies[] = delta_ui
+; User interface
+dependencies[] = readmorecontrol
+; Views
+dependencies[] = better_exposed_filters
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = views_data_export
+dependencies[] = views_php
+dependencies[] = views_ui
+; public-action
+dependencies[] = oip_tweaks
+; Features
+dependencies[] = features
+dependencies[] = oip_listing
+
