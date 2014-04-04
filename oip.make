@@ -28,7 +28,7 @@ projects[profiler_builder][subdir] = "contrib"
 projects[ds][version] = "1.5"
 projects[ds][subdir] = "contrib"
 
-projects[features][version] = "1.0"
+projects[features][version] = "2.0"
 projects[features][subdir] = "contrib"
 
 projects[cck_phone][version] = "1.x-dev"
