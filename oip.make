@@ -152,6 +152,12 @@ projects[sky][type] = "theme"
 projects[sky][version] = "2.3"
 projects[sky][subdir] = "contrib"
 
+; oip default theme
+projects[oip_theme][download][type] = "git"
+projects[oip_theme][download][url] = "https://github.com/dwork/oip_theme.git"
+projects[oip_theme][subdir] = "contrib"
+projects[oip_theme][type] = "theme"
+
 ; +++++ External modules, from github +++++ 
 
 ; Listing and Open House feature (content type)

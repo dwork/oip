@@ -6,7 +6,7 @@
  */
 function oip_install() {
   // Enable some oip blocks.
-  $default_theme = 'oip';
+  $default_theme = 'oip_theme';
   $admin_theme = 'seven';
   // disable all themes
   db_update('system')
