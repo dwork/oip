@@ -116,5 +116,5 @@ dependencies[] = views_ui
 dependencies[] = oip_tweaks
 ; Features
 ; dependencies[] = features
-dependencies[] = oip_listing
+; dependencies[] = oip_listing
 
